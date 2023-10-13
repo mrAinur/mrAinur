@@ -23,7 +23,7 @@
 
 # 🏂Algorithmic thinking training
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/mr_Ainur)
+[![codewars](https://www.codewars.com/users/mr_Ainur/badges/large)](https://www.codewars.com/users/mr_Ainur)
 
 # 😉Random Joke
 
