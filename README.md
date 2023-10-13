@@ -2,11 +2,11 @@
 
 # 💫About Me :
 
-<p font-size="20px">🧐Started studying frontend development with the book “The New Big CSS Book | McFarland David”;<br></p>
-🍹I used to work as a bartender, so I can easily find a common language with different people;<br>
-🔍Perfectionist in almost everything;<br>
-📖I am always improving as a developer in order to improve my projects and skills;<br>
-👀I believe that every little thing in the project matters!<br>
+##🧐Started studying frontend development with the book “The New Big CSS Book | McFarland David”;<br>
+##🍹I used to work as a bartender, so I can easily find a common language with different people;<br>
+##🔍Perfectionist in almost everything;<br>
+##📖I am always improving as a developer in order to improve my projects and skills;<br>
+##👀I believe that every little thing in the project matters!<br>
 
 # 🌐Socials
 
