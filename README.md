@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <p style='color: green'>Ainur</p>
+<h1 align="center">Hi there, I'm <p color="green"'>Ainur</p>
 
 # 💫About Me :
 
