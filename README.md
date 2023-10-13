@@ -19,7 +19,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Ainur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ainur&theme=tokyonight&hide_border=false)<br/>
-![Language statistics in repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![Language statistics in repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrAinur&theme=2077)
 
 # 🏂Algorithmic thinking training
 
