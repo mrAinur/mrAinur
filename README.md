@@ -26,6 +26,6 @@
 
 [![codewars](https://www.codewars.com/users/mr_Ainur/badges/large)](https://www.codewars.com/users/mr_Ainur)
 
-# 😉Random Joke
+## 😉Random Joke
 
 ![](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
