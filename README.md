@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ainur</a>
+<h1 align="center">Hi there, I'm <p style='color: green'>Ainur</p>
 
 # 💫About Me :
 
