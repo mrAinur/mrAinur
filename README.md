@@ -20,11 +20,10 @@
 ![Language statistics in repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 ![](https://github-readme-stats.vercel.app/api?username=Ainur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ainur&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ainur&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🏂Algorithmic thinking training
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/mr_Ainur)</div>
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/mr_Ainur)
 
 # 😉Random Joke
 
