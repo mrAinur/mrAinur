@@ -29,9 +29,3 @@
 # 😉Random Joke
 
 ![](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%23944bcc&aColor=%23bbdb51)
-
-# 🐍Snake🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <imgalt="github-snake" src="github-snake.svg" />
