@@ -10,7 +10,7 @@
 
 # 🌐Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/mr_ainur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_ainur_) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21045317) <a href="https://t.me/MrAinur" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/mr_ainur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_ainur_) <a href="https://t.me/MrAinur" target="_blank"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="20px"/></a> [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21045317)
 
 # 🖥️Tech Stack
 
