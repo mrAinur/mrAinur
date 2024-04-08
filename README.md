@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Ainur!</h1><br>
-<h1 align="center">I'm Front-end developer!</h1>
+<h1 align="center">Hi there, I'm Ainur and I'm front-end developer!</h1>
 
 # 💫About Me :
 
